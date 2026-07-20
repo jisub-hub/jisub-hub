@@ -1,4 +1,4 @@
-# 심지섭 (Jisub Shim)
+# 심지섭 (Jisub Sim)
 
 Java/Spring Boot 백엔드 개발자 · 경력 5년  
 공공기관 및 민간 도메인에서 안전관리 플랫폼 개발을 담당해왔습니다.  
