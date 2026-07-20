@@ -2,7 +2,7 @@
 
 Java/Spring Boot 백엔드 개발자 · 경력 5년  
 공공기관 및 민간 도메인에서 안전관리 플랫폼 개발을 담당해왔습니다.  
-현재는 Claude Code를 개발 워크플로우에 통합해 활용하고 있습니다.
+현재는 Claude Code와 OpenAI Codex API를 개발 워크플로우에 통합해 활용하고 있습니다.
 
 ---
 
@@ -23,6 +23,11 @@ Java/Spring Boot 백엔드 개발자 · 경력 5년
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square)
+
+**AI Tools**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)
 
 **Infra**
 
